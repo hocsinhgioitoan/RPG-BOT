@@ -1,0 +1,1181 @@
+[06-06-22 ~ 12:46:16] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 12:46:16] - [warn] ~ [Client.js] test
+[06-06-22 ~ 12:46:16] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 12:46:16] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 12:46:16] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 12:46:16] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 12:46:16] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 12:46:16] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 12:46:16] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 12:46:16] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:41:2] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:41:2] - [warn] ~ [Client.js] test
+[06-06-22 ~ 13:41:2] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:41:2] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:41:2] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:41:2] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:41:2] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:41:2] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:41:2] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:41:2] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:42:11] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:42:11] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:42:11] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:42:11] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:42:11] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:42:11] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:42:11] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:42:11] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:42:11] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:43:19] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:43:19] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:43:19] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:43:19] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:43:19] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:43:19] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:43:19] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:43:19] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:43:19] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:43:59] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:43:59] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:43:59] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:43:59] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:43:59] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:43:59] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:43:59] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:43:59] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:43:59] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:44:25] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:44:25] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:44:25] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:44:25] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:44:25] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:44:25] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:44:42] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:44:42] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:44:42] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:44:42] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:44:42] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:44:42] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:44:42] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:44:42] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:44:42] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:47:11] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:47:11] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:47:11] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:47:11] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:47:11] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:47:11] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:47:11] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:47:11] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:47:11] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:47:40] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:47:40] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:47:40] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:47:40] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:47:40] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:47:40] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:47:40] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:47:40] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:47:40] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:48:21] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:48:21] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:48:21] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:48:21] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:48:21] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:48:21] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:48:21] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:48:21] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:48:21] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:49:12] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:49:12] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:49:12] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:49:12] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:49:12] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:49:12] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:49:12] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:49:12] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:49:12] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:49:34] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:49:34] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:49:34] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:49:34] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:49:34] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:49:34] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:49:34] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:49:34] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:49:34] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:51:11] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:51:11] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:51:11] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:51:11] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:51:11] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:51:11] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:51:11] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:51:11] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:51:11] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:51:37] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:51:37] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:51:37] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:51:37] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:51:37] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:51:37] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:51:37] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:51:37] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:51:37] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:53:4] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:53:4] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:53:4] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:53:4] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:53:4] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:53:4] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:53:4] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:53:4] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:53:4] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:53:28] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:53:28] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:53:28] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:53:28] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:53:28] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:53:28] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:53:28] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:53:28] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:53:28] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:54:13] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:54:13] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:54:13] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:54:13] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:54:13] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:54:13] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:54:13] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:54:13] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:54:13] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:54:42] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:54:42] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:54:42] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:54:42] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:54:42] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:54:42] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:54:42] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:54:42] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:54:42] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 13:59:44] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 13:59:44] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 13:59:44] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 13:59:44] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 13:59:44] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 13:59:44] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 13:59:44] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 13:59:44] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 13:59:44] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:1:24] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:1:24] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:1:24] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:1:24] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:1:24] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:1:24] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:1:24] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:1:24] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:1:24] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:3:6] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:3:6] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:3:6] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:3:6] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:3:6] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:3:6] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:3:6] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:3:6] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:3:6] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:11:10] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:11:10] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:11:10] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:11:10] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:11:10] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:11:10] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:11:10] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:11:10] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:11:10] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:15:2] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:15:2] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:15:2] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:15:2] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:15:2] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:15:2] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:15:2] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:15:2] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:15:2] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:16:21] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:16:21] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:16:21] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:16:21] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:16:21] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:16:21] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:16:21] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:16:21] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:16:21] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:21:56] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:21:56] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:21:56] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:21:56] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:21:56] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:21:56] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:21:56] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:21:56] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:21:56] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:23:59] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:23:59] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:23:59] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:23:59] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:23:59] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:23:59] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:23:59] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:23:59] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:23:59] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:26:3] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:26:3] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:26:3] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:26:3] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:26:3] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:26:3] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:26:3] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:26:3] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:26:3] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:37:48] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:37:48] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:37:48] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:37:48] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:37:48] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:37:48] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:37:48] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:37:48] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:37:48] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:38:53] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:38:53] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:38:53] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:38:53] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:38:53] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:38:53] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:38:53] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:38:53] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:38:53] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:40:17] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:40:17] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:40:17] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:40:17] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:40:17] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:40:17] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:40:17] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:40:17] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:40:17] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:40:58] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:40:58] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:40:58] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:40:58] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:40:58] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:40:58] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:40:58] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:40:58] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:40:58] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:42:33] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:42:33] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:42:33] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:42:33] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:42:33] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:42:33] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:42:33] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:42:33] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:42:33] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:44:3] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:44:3] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:44:3] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:44:3] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:44:3] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:44:3] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:44:3] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:44:3] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:44:3] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:44:33] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:44:33] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:44:33] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:44:33] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:44:33] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:44:33] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:44:33] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:44:33] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:44:33] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:45:14] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:45:14] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:45:14] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:45:14] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:45:14] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:45:14] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:45:14] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:45:14] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:45:14] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:45:39] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:45:39] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:45:39] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:45:39] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:45:39] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:45:39] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:45:39] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:45:39] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:45:39] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:51:19] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:51:19] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:51:19] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:51:19] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:51:19] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:51:19] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:51:19] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:51:19] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:51:19] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:53:11] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:53:11] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:53:11] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:53:11] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:53:11] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:53:11] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:53:11] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:53:11] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:53:11] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:54:54] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:54:54] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:54:54] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:54:54] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:54:54] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:54:54] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:54:54] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:54:54] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:54:54] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:54:54] - [info] ~ [shop.js] YL ●  Normal bị ban owo#3106 đã mua Hộp random tiền <:coin:982937770957881344> (100 -> 200) | 1 | 1
+[06-06-22 ~ 14:56:38] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:56:38] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:56:38] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:56:38] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:56:38] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:56:38] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:56:38] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:56:38] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:56:38] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:58:50] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:58:50] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:58:50] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:58:50] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:58:50] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:58:50] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:58:50] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:58:50] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:58:50] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:59:58] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 14:59:58] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 14:59:58] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 14:59:58] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 14:59:58] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 14:59:58] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 14:59:58] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 14:59:58] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 14:59:58] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 14:59:58] - [info] ~ [shop.js] YL ●  Normal bị ban owo#3106 đã mua Hộp random tiền <:coin:982937770957881344> (100 -> 200) | 1 | 10
+[06-06-22 ~ 15:2:4] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:2:4] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:2:4] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:2:4] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:2:4] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:2:4] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:2:4] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:2:4] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:2:4] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:2:4] - [info] ~ [shop.js] YL ●  Normal bị ban owo#3106 đã mua Hộp random tiền <:coin:982937770957881344> (100 -> 200) | 1 | 10
+[06-06-22 ~ 15:3:18] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:3:18] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:3:18] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:3:18] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:3:18] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:3:18] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:3:18] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:3:18] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:3:18] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:3:18] - [info] ~ [shop.js] YL ●  Normal bị ban owo#3106 đã mua Hộp random tiền <:coin:982937770957881344> (100 -> 200) | 1 | 10
+[06-06-22 ~ 15:8:44] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:8:44] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:8:44] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:8:44] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:8:44] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:8:44] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:8:44] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:8:44] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:8:44] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:8:44] - [info] ~ [shop.js] YL ●  Normal bị ban owo#3106 đã mua Hộp random tiền <:coin:982937770957881344> (100 -> 200) | 1 | 10
+[06-06-22 ~ 15:15:16] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:15:16] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:15:16] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:15:16] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:15:16] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:15:16] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:15:16] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:15:16] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:15:16] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:18:28] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:18:28] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:18:28] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:18:28] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:18:28] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:19:0] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:19:0] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:19:0] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:19:0] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:19:0] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:19:0] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:19:0] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:19:0] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:19:0] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:20:22] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:20:22] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:20:22] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:20:22] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:20:22] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:20:22] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:20:22] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:20:22] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:20:22] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:21:40] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:21:40] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:21:40] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:21:40] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:21:40] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:21:40] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:21:40] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:21:40] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:21:40] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:23:48] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:23:48] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:23:48] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:23:48] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:23:48] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:23:48] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:23:48] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:23:48] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:23:48] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:24:46] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:24:46] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:24:46] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:24:46] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:24:46] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:24:46] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:24:46] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:24:46] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:24:46] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:25:33] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:25:33] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:25:33] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:25:33] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:25:33] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:25:33] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:25:33] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:25:33] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:25:33] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:29:5] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:29:5] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:29:5] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:29:5] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:29:5] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:29:25] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:29:25] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:29:25] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:29:25] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:29:25] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:29:25] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:29:25] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:29:25] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:29:25] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:30:16] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:30:16] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:30:16] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:30:16] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:30:16] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:30:16] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:30:16] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:30:16] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:30:16] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:31:51] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:31:51] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:31:51] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:31:51] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:31:51] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:31:51] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:31:51] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:31:51] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:31:51] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:32:59] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:32:59] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:32:59] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:32:59] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:38:24] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:38:24] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:38:24] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:38:24] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:38:24] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:38:24] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:38:24] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:38:24] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:38:24] - [info] ~ [Client.js] Đã kết nối đến MongoDB
