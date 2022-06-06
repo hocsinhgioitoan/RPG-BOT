@@ -37,5 +37,11 @@ module.exports = mongoose.model(
                 count: { type: Number, default: 0 },
             },
         },
+        zoo: {
+            pet: { type: Array, default: [] },
+        },
+        history: {
+            log: { type: Array, default: [] }
+        }
     })
 );

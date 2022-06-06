@@ -44,6 +44,12 @@ module.exports.createPlayer = async function (PlayerID, PlayerName) {
                 time: null,
                 count: 0,
             },
+            zoo: {
+                pet: []
+            },
+            history: {
+                log: []
+            }
         });
         await player.save().catch((err) => console.log(err));
         return true;

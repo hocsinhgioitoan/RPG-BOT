@@ -8,11 +8,12 @@ const client = new Client(config, {
 });
 client.connectMongo(config.connect.mongo.url, mongoose)
 client.loadEvents("./src/events");
+client.logger.info(`Đang khởi động`)
 client.login(config.token).then(() => {
     client.loadCommands("./src/commands");
     client.logger.info('Đã đăng nhập thành công.');
 })
-//
+
 Number.prototype.formatMoney = function(decPlaces, thouSeparator, decSeparator) {
     var n = this,
         decPlaces = isNaN(decPlaces = Math.abs(decPlaces)) ? 2 : decPlaces,

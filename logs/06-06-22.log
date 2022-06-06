@@ -1179,3 +1179,25 @@
 [06-06-22 ~ 15:38:24] - [info] ~ [index.js] Đã đăng nhập thành công.
 [06-06-22 ~ 15:38:24] - [info] ~ [ready.js] [READY] Ready to work!
 [06-06-22 ~ 15:38:24] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[06-06-22 ~ 15:53:46] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[06-06-22 ~ 15:53:46] - [info] ~ [index.js] Đang khởi động
+[06-06-22 ~ 15:53:46] - [info] ~ [Client.js] 2 event đã tìm thấy.
+[06-06-22 ~ 15:53:46] - [info] ~ [Client.js] Đang tải: messageCreate
+[06-06-22 ~ 15:53:46] - [info] ~ [Client.js] Đang tải: ready
+[06-06-22 ~ 15:53:46] - [info] ~ [Client.js] Loading commands...
+[06-06-22 ~ 15:53:46] - [info] ~ [Client.js] 
+.-----------------------------------------.
+|                Commands                 |
+|-----------------------------------------|
+|     File      | Aliases | Type | Status |
+|---------------|---------|------|--------|
+| createData.js |         | info | pass   |
+| daily.js      |         | info | pass   |
+| inventory.js  |         | info | pass   |
+| ping.js       |         | info | pass   |
+| shop.js       |         | info | pass   |
+| useItem.js    |         | info | pass   |
+'-----------------------------------------'
+[06-06-22 ~ 15:53:46] - [info] ~ [index.js] Đã đăng nhập thành công.
+[06-06-22 ~ 15:53:46] - [info] ~ [ready.js] [READY] Ready to work!
+[06-06-22 ~ 15:53:46] - [info] ~ [Client.js] Đã kết nối đến MongoDB
