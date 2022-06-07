@@ -1,4 +1,4 @@
-const {MessageEmbed, MessageActionRow, MessageButton} = require('discord.js');
+const { MessageEmbed, MessageActionRow, MessageButton } = require('discord.js');
 
 /**
  * Reaction Menu class
@@ -143,19 +143,19 @@ module.exports = class LeaderboardMenu {
             first
                 .setTitle(
                     this.embed.title +
-                    ' ' +
-                    this.client.utils.getRange(
-                        this.arr,
-                        this.current,
-                        this.interval
-                    )
+                        ' ' +
+                        this.client.utils.getRange(
+                            this.arr,
+                            this.current,
+                            this.interval
+                        )
                 )
-                .setDescription(description.join('\n'));
+                .setDescription(description.join(''));
 
         const row = new MessageActionRow();
         this.buttons.forEach((button) => row.addComponents(button));
         this.channel
-            .send({
+            .reply({
                 embeds: [first],
                 components: components ? [...components, row] : [row] || [],
             })
@@ -189,12 +189,12 @@ module.exports = class LeaderboardMenu {
         collector.on('collect', async (btn) => {
             let newPage = this.functions[btn.customId];
             if (typeof newPage === 'function') newPage = newPage();
-            if (newPage) await this.message.edit({embeds: [newPage]});
+            if (newPage) await this.message.edit({ embeds: [newPage] });
         });
 
         // On end
         collector.on('end', () => {
-            this.message.edit({components: []});
+            this.message.edit({ components: [] });
         });
 
         this.collector = collector;
@@ -209,8 +209,12 @@ module.exports = class LeaderboardMenu {
         return new MessageEmbed(this.json)
             .setTitle(
                 this.embed.title +
-                ' ' +
-                this.client.utils.getRange(this.arr, this.current, this.interval)
+                    ' ' +
+                    this.client.utils.getRange(
+                        this.arr,
+                        this.current,
+                        this.interval
+                    )
             )
             .setDescription(
                 this.arr
@@ -229,8 +233,12 @@ module.exports = class LeaderboardMenu {
         return new MessageEmbed(this.json)
             .setTitle(
                 this.embed.title +
-                ' ' +
-                this.client.utils.getRange(this.arr, this.current, this.interval)
+                    ' ' +
+                    this.client.utils.getRange(
+                        this.arr,
+                        this.current,
+                        this.interval
+                    )
             )
             .setDescription(
                 this.arr
@@ -255,8 +263,12 @@ module.exports = class LeaderboardMenu {
         return new MessageEmbed(this.json)
             .setTitle(
                 this.embed.title +
-                ' ' +
-                this.client.utils.getRange(this.arr, this.current, this.interval)
+                    ' ' +
+                    this.client.utils.getRange(
+                        this.arr,
+                        this.current,
+                        this.interval
+                    )
             )
             .setDescription(this.arr.slice(this.current, max).join('\n'));
     }
@@ -273,8 +285,12 @@ module.exports = class LeaderboardMenu {
         return new MessageEmbed(this.json)
             .setTitle(
                 this.embed.title +
-                ' ' +
-                this.client.utils.getRange(this.arr, this.current, this.interval)
+                    ' ' +
+                    this.client.utils.getRange(
+                        this.arr,
+                        this.current,
+                        this.interval
+                    )
             )
             .setDescription(this.arr.slice(this.current, this.max).join('\n'));
     }

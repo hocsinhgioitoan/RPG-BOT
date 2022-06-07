@@ -3,12 +3,18 @@ const mongoose = require('mongoose');
 module.exports = mongoose.model(
     'Player',
     new mongoose.Schema({
-        id: { type: Number, required: true },
+        id: { type: String, required: true },
         info: {
             type: Object,
             default: {
                 name: { type: String, default: null },
                 level: { type: Number, default: 1 },
+                xp: { type: Number, default: 0 },
+                premium: { type: Object, default: {
+                    active: { type: Boolean, default: false },
+                    time: { type: Number, default: 0 },
+                }
+                },
             },
         },
         inventory: {

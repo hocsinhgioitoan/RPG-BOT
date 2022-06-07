@@ -1,5 +1,6 @@
 const logSchema = require('./Schema/Log.js');
 const PlayerSchema = require('./Schema/PlayerSchema.js');
+const Blacklist = require('./Schema/Blacklist.js');
 module.exports.createLog = async function (message, data) {
     let logDB = new logSchema({
         commandName: data.cmd.name,
@@ -26,6 +27,11 @@ module.exports.createPlayer = async function (PlayerID, PlayerName) {
             info: {
                 name: PlayerName,
                 level: 1,
+                xp: 0,
+                premium: {
+                    active: false,
+                    time: 0,
+                },
             },
             inventory: {
                 items: [],
@@ -125,3 +131,12 @@ module.exports.checkItem = async function (PlayerID, item) {
         else return i.id === item;
     });
 };
+module.exports.User = async function () {
+    return PlayerSchema.find({}).sort({ inventory: { money: -1 } }).limit(10);
+}
+
+module.exports.checkBlacklist = async function (PlayerID) {
+    const list = await Blacklist.find({})
+    const c = list.includes(PlayerID);
+    return c;
+}

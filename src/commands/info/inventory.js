@@ -6,6 +6,8 @@ module.exports = class InventoryCommand extends Command {
         super(client, {
             name: 'inventory',
             usage: 'inventory',
+            aliases:["inv"],
+
             description: `Xem inventory của bạn.`,
             type: client.types.INFO,
         });

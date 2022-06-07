@@ -15,6 +15,7 @@ module.exports = class UseCommand extends Command {
         const player = new Player(message.author.id, message.author.username);
         const data = await player.getDataPlayer();
         let inv = data.inventory;
+
         let item = args[0];
         let amount = args[1];
         if (!item) {
@@ -37,15 +38,24 @@ module.exports = class UseCommand extends Command {
         if (!amount) {
             amount = 1;
         }
+
         if (isNumeric(amount) === false) {
-            message.channel.send(`
+            if (
+                amount.toLowerCase() == 'all' ||
+                amount.toLowerCase() == 'max'
+            ) {
+                amount = 200;
+            } else {
+                message.channel.send(`
             ${client.emoji.thatbai} | Sai định dạng.
             - Bạn đã nhập sai số lượng muốn sử dụng.
             - Sử dụng item: ${client.prefix}use <item> <amount>
             - Lưu ý: <item> phải là tên item, <amount> là số lượng muốn sử dụng.`);
 
-            return;
+                return;
+            }
         }
+
         let c;
         const itemFind = inv.items.find((itemr) => {
             if (!itemr) return;
@@ -60,12 +70,24 @@ module.exports = class UseCommand extends Command {
 
             return;
         }
+
         if (itemFind.quantity < amount) {
-            message.channel.send(`
+            if (amount == 200) {
+                if (itemFind.quantity == 0) {
+                    message.channel.send(`
+                    ${client.emoji.thatbai} | Không đủ số lượng item này trong inventory.
+                    - Sử dụng item: ${client.prefix}use <item> <amount>
+                    - Lưu ý: <item> phải là tên item, <amount> là số lượng muốn sử dụng.`);
+                    return;
+                }
+                amount = itemFind.quantity;
+            } else {
+                message.channel.send(`
             ${client.emoji.thatbai} | Không đủ số lượng item này trong inventory.
             - Sử dụng item: ${client.prefix}use <item> <amount>
             - Lưu ý: <item> phải là tên item, <amount> là số lượng muốn sử dụng.`);
-            return;
+                return;
+            }
         }
         const itemInfo = require('../../Utils/item.js').itemPage;
         let d;
@@ -77,19 +99,49 @@ module.exports = class UseCommand extends Command {
                 }
             });
         });
+
         const emoji = getEmojiItem(itemFind.id);
         if (itemFind.id == 1) {
             let a = 0;
-            let b = []
+            let b = [];
             for (let i = 0; i < amount; i++) {
                 const random = client.utils.getRandomInt(100, 200);
-                b.push(random)
+                b.push(random);
                 a += random;
             }
-            const content = `
-${client.emoji.thanhcong} | Bạn đã dùng **__${amount}__** ${d.name} ${emoji.emoji}để đổi **${a.formatMoney(0, ',', '.')}** ${client.emoji.coin}
+
+            let content = `
+${client.emoji.thanhcong} | Bạn đã dùng **__${amount}__** ${d.name} ${
+                emoji.emoji
+            }để đổi **${a.formatMoney(0, ',', '.')}** ${client.emoji.coin}
 ${client.emoji.coin} | Số tiền lần lược của từng hộp: ${b.join(', ')}
             `;
+            if (content.length > 1024) {
+                content.substring(0, 1020);
+                content = content + '...dài quái :))';
+            }
+            message.channel.send(content);
+            data.inventory.money += a;
+            data.inventory.items[itemFind.id].quantity -= amount;
+            await player.setDataPlayer(data);
+        } else if (itemFind.id == 2) {
+            let a = 0;
+            let b = [];
+            for (let i = 0; i < amount; i++) {
+                const random = client.utils.getRandomInt(500, 700);
+                b.push(random);
+                a += random;
+            }
+            let content = `
+${client.emoji.thanhcong} | Bạn đã dùng **__${amount}__** ${d.name} ${
+                emoji.emoji
+            }để đổi **${a.formatMoney(0, ',', '.')}** ${client.emoji.coin}
+${client.emoji.coin} | Số tiền lần lược của từng hộp: ${b.join(', ')}
+            `;
+            if (content.length > 1024) {
+                content.substring(0, 1020);
+                content = content + '...dài quái :))';
+            }
             message.channel.send(content);
             data.inventory.money += a;
             data.inventory.items[itemFind.id].quantity -= amount;

@@ -5,8 +5,34 @@
     "alarm": "<a:Alarm_1:982940854186541078>",
     "game": {
         "items": [
-            {"id": "1", "emoji": "<:hopvang:983205770814455848>", "url": "https://images-ext-2.discordapp.net/external/6BRMtLe4UMoa6QIQ_kn9HBbbX_TIcr9hFTOdozrkSoA/https/cdn.discordapp.com/emojis/983205770814455848.png"}
+            {"id": "1", "emoji": "<:hopvang:983205770814455848>", "url": "https://images-ext-2.discordapp.net/external/6BRMtLe4UMoa6QIQ_kn9HBbbX_TIcr9hFTOdozrkSoA/https/cdn.discordapp.com/emojis/983205770814455848.png"},
+            {"id": "2", "emoji": "<:hopvang:983205770814455848>", "url": "https://images-ext-2.discordapp.net/external/6BRMtLe4UMoa6QIQ_kn9HBbbX_TIcr9hFTOdozrkSoA/https/cdn.discordapp.com/emojis/983205770814455848.png"}
+
         ]
     },
-    "unknown": "<a:chamhoi:983208484470415380>"
+    "unknown": "<a:chamhoi:983208484470415380>",
+    "hoicham": "<a:hoicham:983394775006851103>",
+    "so" : {
+        "mot": "<:1_:983401441274245160>",
+        "hai": "<:2_:983401442637402153>",
+        "ba": "<:3_:983401444872949830>",
+        "bon": "<:4_:983401446684885022>",
+        "nam": "<:5_:983401448391974983>",
+        "sau": "<:6_:983401450346520667>",
+        "bay": "<:7_:983401453420969994>",
+        "tam": "<:8_:983401455497150525>"
+    },
+    "rank": {
+        "dong": "<:dong:983629725090070539>",
+        "bac": "<:bac:983631243503599626>",
+        "vang": "<:vang:983631245743386644>",
+        "bacthay": "<:bacthay:983631247605637140>",
+        "trum": "<:trum:983631249585352744>",
+        "pro": "<:pro:983631251623776316>",
+        "superpro": "<:superpro:983631253519622156>"
+    },
+    "premium": "<:premium:983412098790981712>",
+    "icon": {
+
+    }
 }
