@@ -1,13 +1,13 @@
 const Command = require('../Command.js');
 const { MessageEmbed } = require('discord.js');
-const Player = require('../../Game/Player.js');
+const Player = file("./src/Game/Player.js")
 const { MessageButton, MessageActionRow } = require('discord.js');
 module.exports = class CreateDataCommand extends Command {
     constructor(client) {
         super(client, {
             name: 'createdata',
             usage: 'createdata',
-            aliases:["cd"],
+            aliases: ['cd'],
             description: `Tạo data người chơi mới.`,
             type: client.types.INFO,
         });
@@ -54,6 +54,8 @@ module.exports = class CreateDataCommand extends Command {
                     const dataPlayer = await player.getDataPlayer();
                     let inv;
                     let mat;
+                    const stats = dataPlayer.stats;
+                    const get = checkNumber(stats);
                     if (dataPlayer.inventory.items.length === 0) {
                         inv = 'Trống.';
                     } else {
@@ -83,10 +85,12 @@ module.exports = class CreateDataCommand extends Command {
                             {
                                 name: 'Inventory',
                                 value: `- Money: ${dataPlayer.inventory.money}\n- Materials: ${mat}\n- Items: ${inv}`,
+                                inline: true,
                             },
                             {
                                 name: 'Stats',
-                                value: `- HP: ${dataPlayer.stats.hp}\n- MP: ${dataPlayer.stats.mp}\n- ATK: ${dataPlayer.stats.atk}\n- DEF: ${dataPlayer.stats.def}\n- MATK: ${dataPlayer.stats.matk}\n- MDEF: ${dataPlayer.stats.mdef}`,
+                                value: `${client.emoji.icon.HP} \`${get.hp}\` ${client.emoji.icon.MP} \`${get.mp}\` ${client.emoji.icon.ATK} \`${get.atk}\` \n ${client.emoji.icon.DEF} \`${get.def}\` ${client.emoji.icon.MATK} \`${get.matk}\` ${client.emoji.icon.MDEF} \`${get.mdef}\``,
+                                inline: true,
                             },
                         ])
                         .setColor(client.config.colors.default);
@@ -95,6 +99,7 @@ module.exports = class CreateDataCommand extends Command {
             });
             collector.on('end', (collected) => {
                 if (collected.size === 0) {
+                    m.delete()
                     const embed = new MessageEmbed()
                         .setTitle(
                             `${client.emoji.thatbai} | Tạo data người chơi mới thất bại!`
@@ -119,3 +124,25 @@ module.exports = class CreateDataCommand extends Command {
         }
     }
 };
+
+// function check a array which number have biggest length
+function checkArray(obj) {
+    let g = 0;
+    for (let i in obj) {
+        if (obj[i].toString().length > g) {
+            g = obj[i].toString().length;
+        }
+    }
+    return g;
+}
+function checkNumber(stats) {
+    const g = checkArray(stats);
+    for (let i in stats) {
+        if (stats[i].toString().length < g) {
+            stats[i] = `${stats[i]}`.padStart(g, '0');
+        } else {
+            stats[i] = `${stats[i]}`;
+        }
+    }
+    return stats;
+}

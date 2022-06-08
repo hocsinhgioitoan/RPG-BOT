@@ -1,6 +1,6 @@
 const Command = require('../Command.js');
 const { MessageEmbed } = require('discord.js');
-const Player = require('../../Game/Player.js');
+const Player = file("./src/Game/Player.js");
 module.exports = class InventoryCommand extends Command {
     constructor(client) {
         super(client, {

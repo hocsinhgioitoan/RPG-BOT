@@ -9,7 +9,7 @@ module.exports = async (client, message) => {
         message.author.bot
     )
         return;
-    const prefix = client.config.defaultPrefix;
+    const prefix = client.config.host ?client.config.defaultPrefix : client.config.devPrefix;
     const prefixRegex = new RegExp(
         `^(<@!?${client.user.id}>|${prefix.replace(
             /[.*+?^${}()|[\]\\]/g,
@@ -23,22 +23,21 @@ module.exports = async (client, message) => {
     if (dataPlayer) {
         let messageLength = message.content.length;
         if (messageLength > 15) messageLength = 15;
-        console.log(typeof message.content);
-        const h = message.content
+        const h = message.content;
         const rdxp = client.utils.getRandomInt(messageLength, 30);
         const nextLevel = data.info.level + 1;
-        const exNeed = nextLevel * 64 *2;
+        const exNeed = nextLevel * 64 * 2;
         const exHave = data.info.xp;
         const exLeft = exNeed - exHave;
         if (exLeft <= 0) {
             let f = data.info.level + 1;
             data.info.level = data.info.level + 1;
             data.info.xp = exLeft + exLeft * -2;
-            let content = `${client.emoji.thanhcong} | Bạn đã đạt đến level ${data.info.level}! `
-            const levelRewardItem = 5
+            let content = `${client.emoji.thanhcong} | Bạn đã đạt đến level ${data.info.level}! `;
+            const levelRewardItem = 5;
             if (f % levelRewardItem == 0) {
                 const g = f / levelRewardItem;
-                content += `\nBạn đã nhận được ${g} [Hộp random tiền (100 -> 200)]! Check in inventory!`
+                content += `\nBạn đã nhận được ${g} [Hộp random tiền (100 -> 200)]! Check in inventory!`;
                 const checkItem = await player.checkItem(1);
                 if (checkItem) {
                     data.inventory.items[1].quantity += g;
@@ -49,10 +48,7 @@ module.exports = async (client, message) => {
                     };
                 }
             }
-            message.reply(
-                content
-            );
-            
+            message.reply(content);
         } else {
             data.info.xp = data.info.xp + rdxp;
         }
@@ -64,13 +60,15 @@ module.exports = async (client, message) => {
         const cmd = args.shift().toLowerCase();
         let command = client.commands.get(cmd) || client.aliases.get(cmd); // If command not found, check aliases
         if (command) {
-            const blacklist = await client.db.checkBlacklist(message.author.id);
-            if (blacklist === true) {
-                return message.channel.send(
-                    `<@${message.author.id}> Bạn đã bị chặn khỏi sử dụng các lệnh của bot :((. 
+            if (dataPlayer) {
+                const blacklist = data.banned;
+                if (blacklist !== false) {
+                    return message.channel.send(
+                        `<@${message.author.id}> Bạn đã bị chặn khỏi sử dụng các lệnh của bot :((. 
 Hãy liên hệ với admin để biết thêm chi tiết.
 `
-                );
+                    );
+                }
             }
             if ((command.name !== 'createdata') === true) {
                 if (!dataPlayer) {

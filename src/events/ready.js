@@ -1,6 +1,7 @@
-//const t = require('../mongoose/mongoose.js');
-const Player = require('../Game/Player.js');
+//const t = file("./src/Game/Player.js")
+const Player = file('./src/Game/Player.js');
 const { MessageEmbed } = require('discord.js');
+const Code = file('./src/mongoose/Schema/Code.js');
 const t = require('../mongoose/Schema/PlayerSchema.js');
 module.exports = async (client) => {
     client.logger.info('[READY] Ready to work!');
@@ -12,10 +13,33 @@ module.exports = async (client) => {
     const players = await t.find({}).sort({ 'info.premium.active': -1 });
     check();
     var cron = require('node-cron');
-
+    checkCode();
     cron.schedule('*/60 * * * *', () => {
-        check()
+        check();
+        checkCode();
     });
+    async function checkCode() {
+        const codes = await Code.find({}).sort({ 'list.time': -1 });
+        if (codes.length) {
+            for (let i = 0; i < codes.length; i++) {
+                if (codes[i].list.time == NaN) {
+                    await Code.deleteOne({ 'list.code': codes[i].list.code });
+                    client.logger.info(
+                        `[CODE] Code ${codes[i].list.code} đã hết hạn, đã xóa`
+                    );
+                } else if (codes[i].list.time < Date.now()) {
+                    await Code.deleteOne({ 'list.code': codes[i].list.code });
+                    client.logger.info(
+                        `[CODE] Code ${codes[i].list.code} đã hết hạn, đã xóa`
+                    );
+                } else {
+                    console.log(
+                        `[CODE] Code ${codes[i].list.code} chưa hết hạn`
+                    );
+                }
+            }
+        }
+    }
     async function check() {
         client.logger.info('[PREMIUM] Check trạng thái premium của user...');
         for (let i = 0; i < players.length; i++) {
@@ -48,10 +72,22 @@ module.exports = async (client) => {
                             .then((user) => {
                                 user.send({ embeds: [embed] });
                             });
-
                         client.logger.info(
                             `[PREMIUM] ${players[i].info.name} đã hết premium.`
                         );
+                        var guild = client.guilds.cache.get(
+                            client.config.info.guild
+                        );
+                        const member = await guild.members.fetch(data.id);
+                        if (!member) {
+                            return client.logger.error(
+                                'User được add premium không ở trong server support của bot.'
+                            );
+                        }
+                        const role = await guild.roles.fetch(
+                            client.config.info.role
+                        );
+                        member.roles.remove(role);
                     }
                 } else {
                     client.logger.info(

@@ -19,11 +19,22 @@ module.exports.createLog = async function (message, data) {
     await logDB.save().catch((err) => console.log(err));
     return;
 };
+function randomStats() {
+    return {
+        hp: 100,
+        mp: Math.floor(Math.random() * 50),
+        atk: Math.floor(Math.random() * 50),
+        def: Math.floor(Math.random() * 50),
+        matk: Math.floor(Math.random() * 20),
+        mdef: Math.floor(Math.random() * 20),
+    };
+}
 module.exports.createPlayer = async function (PlayerID, PlayerName) {
     const data = await this.getPlayer(PlayerID);
     if (!data) {
         const player = new PlayerSchema({
             id: PlayerID,
+            banned: false,
             info: {
                 name: PlayerName,
                 level: 1,
@@ -38,14 +49,7 @@ module.exports.createPlayer = async function (PlayerID, PlayerName) {
                 materials: [],
                 money: 0,
             },
-            stats: {
-                hp: 100,
-                mp: 100,
-                atk: 10,
-                def: 10,
-                matk: 10,
-                mdef: 10,
-            },
+            stats: randomStats(),
             daily: {
                 time: null,
                 count: 0,

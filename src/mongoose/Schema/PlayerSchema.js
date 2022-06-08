@@ -4,6 +4,7 @@ module.exports = mongoose.model(
     'Player',
     new mongoose.Schema({
         id: { type: String, required: true },
+        banned: { type: Boolean, default: false },
         info: {
             type: Object,
             default: {
@@ -48,6 +49,10 @@ module.exports = mongoose.model(
         },
         history: {
             log: { type: Array, default: [] }
+        },
+        code: {
+            type: Array,
+            default: [],
         }
     })
 );

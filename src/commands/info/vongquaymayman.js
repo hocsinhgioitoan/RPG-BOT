@@ -1,6 +1,6 @@
 const Command = require('../Command.js');
 const { MessageEmbed } = require('discord.js');
-const Player = require('../../Game/Player.js');
+const Player = file("./src/Game/Player.js");
 module.exports = class GhachaCommand extends Command {
     constructor(client) {
         super(client, {
@@ -50,6 +50,8 @@ Luật chơi:
 :green_square::green_square::green_square::green_square::green_square:
             `;
                     let limitBlockhadGift = 2
+                    const premium = data.info.premium.active
+                    if (premium === true) limitBlockhadGift = 3
                     let x = [0]
                     for ( let o = 0; o < limitBlockhadGift; o++) { 
                         let d = rd(x)

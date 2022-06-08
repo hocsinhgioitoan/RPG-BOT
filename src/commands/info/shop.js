@@ -1,6 +1,6 @@
 const Command = require('../Command.js');
 const { MessageEmbed, MessageActionRow, MessageButton } = require('discord.js');
-const Player = require('../../Game/Player.js');
+const Player = file("./src/Game/Player.js");
 const ButtonMenu = require('../Button');
 const moment = require('moment');
 moment.locale('vi');
