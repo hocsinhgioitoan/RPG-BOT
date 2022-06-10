@@ -5,6 +5,13 @@ module.exports = mongoose.model(
     new mongoose.Schema({
         id: { type: String, required: true },
         banned: { type: Boolean, default: false },
+        captcha: {
+            type: Object,
+            default: {
+                active: { type: Boolean, default: false },
+                count: { type: Number, default: 0 },
+            },
+        },
         info: {
             type: Object,
             default: {

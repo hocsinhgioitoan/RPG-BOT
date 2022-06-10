@@ -1,1 +1,1 @@
-console.log(5 %5 === 0)
+console.log(process.argv[2])

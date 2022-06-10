@@ -9,7 +9,7 @@ module.exports = class CreateDataCommand extends Command {
             usage: 'createdata',
             aliases: ['cd'],
             description: `Tạo data người chơi mới.`,
-            type: client.types.INFO,
+            type: client.types.GAME,
         });
     }
 

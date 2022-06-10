@@ -1,6 +1,7 @@
 const logSchema = require('./Schema/Log.js');
 const PlayerSchema = require('./Schema/PlayerSchema.js');
 const Blacklist = require('./Schema/Blacklist.js');
+const Guild = require('./Schema/Guild.js');
 module.exports.createLog = async function (message, data) {
     let logDB = new logSchema({
         commandName: data.cmd.name,
@@ -35,6 +36,10 @@ module.exports.createPlayer = async function (PlayerID, PlayerName) {
         const player = new PlayerSchema({
             id: PlayerID,
             banned: false,
+            captcha: {
+                active: false,
+                count: 0,
+            },
             info: {
                 name: PlayerName,
                 level: 1,
@@ -143,4 +148,8 @@ module.exports.checkBlacklist = async function (PlayerID) {
     const list = await Blacklist.find({})
     const c = list.includes(PlayerID);
     return c;
+}
+module.exports.getPrefixGuild = async function (GuildID) {
+    const guild = await Guild.findOne({ id: GuildID });
+    return guild.info.prefix;
 }

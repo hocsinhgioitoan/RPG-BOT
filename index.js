@@ -1,21 +1,23 @@
 const Client = require('./src/Client');
 const config = require('./config.js');
 global.__basedir = __dirname;
-global.base_dir = __dirname
+global.base_dir = __dirname;
 global.abs_path = function (path) {
-  return base_dir + path
-}
+    return base_dir + path;
+};
 global.include = function (file) {
-  return require(abs_path('/' + file))
-}
+    return require(abs_path('/' + file));
+};
 global.file = function (file) {
-  return require(abs_path('/' + file))
-}
+    return require(abs_path('/' + file));
+};
+
 const mongoose = require('mongoose');
 const client = new Client(config, {
     partials: ['MESSAGE', 'CHANNEL', 'REACTION'],
     allowedMentions: { parse: ['users', 'roles'], repliedUser: false },
 });
+
 client.connectMongo(config.connect.mongo.url, mongoose);
 client.loadEvents('./src/events');
 client.logger.info(`Đang khởi động`);
@@ -23,7 +25,6 @@ client.login(config.host ? config.maintoken : config.token).then(() => {
     client.loadCommands('./src/commands');
     client.logger.info('Đã đăng nhập thành công.');
 });
-
 Number.prototype.formatMoney = function (
     decPlaces,
     thouSeparator,

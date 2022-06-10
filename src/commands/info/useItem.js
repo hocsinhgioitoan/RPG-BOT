@@ -7,7 +7,7 @@ module.exports = class UseCommand extends Command {
             name: 'use',
             usage: 'use <item> <amount>',
             description: `.`,
-            type: client.types.INFO,
+            type: client.types.GAME,
         });
     }
 
@@ -22,7 +22,7 @@ module.exports = class UseCommand extends Command {
             message.channel.send(`
             ${client.emoji.thatbai} | Sai định dạng.
             - Bạn cần nhập tên item và số lượng muốn sử dụng.
-            - Sử dụng item: ${client.prefix}use <item> <amount>
+            - Sử dụng item: ${await client.prefix(message.guild.id)}use <item> <amount>
             - Lưu ý: <item> phải là tên item, <amount> là số lượng muốn sử dụng.
             `);
             return;
@@ -31,7 +31,7 @@ module.exports = class UseCommand extends Command {
             message.channel.send(`
             ${client.emoji.thatbai} | Sai định dạng.
             - Bạn đã nhập sai Id của item.
-            - Sử dụng item: ${client.prefix}use <item> <amount>
+            - Sử dụng item: ${await client.prefix(message.guild.id)}use <item> <amount>
             - Lưu ý: <item> phải là tên item, <amount> là số lượng muốn sử dụng.`);
             return;
         }
@@ -49,7 +49,7 @@ module.exports = class UseCommand extends Command {
                 message.channel.send(`
             ${client.emoji.thatbai} | Sai định dạng.
             - Bạn đã nhập sai số lượng muốn sử dụng.
-            - Sử dụng item: ${client.prefix}use <item> <amount>
+            - Sử dụng item: ${await client.prefix(message.guild.id)}use <item> <amount>
             - Lưu ý: <item> phải là tên item, <amount> là số lượng muốn sử dụng.`);
 
                 return;
@@ -65,7 +65,7 @@ module.exports = class UseCommand extends Command {
         if (!itemFind) {
             message.channel.send(`
             ${client.emoji.thatbai} | Không có item này trong inventory.
-            - Sử dụng item: ${client.prefix}use <item> <amount>
+            - Sử dụng item: ${await client.prefix(message.guild.id)}use <item> <amount>
             - Lưu ý: <item> phải là tên item, <amount> là số lượng muốn sử dụng.`);
 
             return;
@@ -76,7 +76,7 @@ module.exports = class UseCommand extends Command {
                 if (itemFind.quantity == 0) {
                     message.channel.send(`
                     ${client.emoji.thatbai} | Không đủ số lượng item này trong inventory.
-                    - Sử dụng item: ${client.prefix}use <item> <amount>
+                    - Sử dụng item: ${await client.prefix(message.guild.id)}use <item> <amount>
                     - Lưu ý: <item> phải là tên item, <amount> là số lượng muốn sử dụng.`);
                     return;
                 }
@@ -84,7 +84,7 @@ module.exports = class UseCommand extends Command {
             } else {
                 message.channel.send(`
             ${client.emoji.thatbai} | Không đủ số lượng item này trong inventory.
-            - Sử dụng item: ${client.prefix}use <item> <amount>
+            - Sử dụng item: ${await client.prefix(message.guild.id)}use <item> <amount>
             - Lưu ý: <item> phải là tên item, <amount> là số lượng muốn sử dụng.`);
                 return;
             }

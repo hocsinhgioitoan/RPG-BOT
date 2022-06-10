@@ -1,0 +1,2833 @@
+[09-06-22 ~ 9:46:31] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 9:46:31] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 9:46:31] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 9:46:31] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 9:46:31] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 9:46:31] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 9:46:31] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 9:46:31] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 9:46:31] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 9:46:31] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 9:46:31] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 9:46:31] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 9:46:31] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 10:36:9] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 10:36:9] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 10:36:9] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 10:36:9] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 10:36:9] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 10:36:9] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 10:36:9] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 10:36:9] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 10:36:9] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 10:36:9] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 10:36:9] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 10:36:9] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 10:36:9] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 10:42:27] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 10:42:27] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 10:42:27] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 10:42:27] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 10:42:27] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 10:42:27] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 10:42:27] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 10:42:27] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 10:42:27] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 10:42:27] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 10:42:27] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 10:42:27] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 10:42:27] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 10:42:27] - [log] ~ [guildCreate.js] [GUILD CREATE] splite: (980665436553232434)
+[09-06-22 ~ 10:44:34] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 10:44:34] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 10:44:34] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 10:44:34] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 10:44:34] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 10:44:34] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 10:44:34] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 10:44:34] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 10:44:34] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 10:44:34] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 10:44:34] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 10:44:34] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 10:44:34] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 10:45:49] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 10:45:49] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 10:45:49] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 10:45:49] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 10:45:49] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 10:45:49] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 10:45:49] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 10:45:49] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 10:45:49] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 10:45:49] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 10:45:49] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 10:45:49] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 10:45:49] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 10:46:25] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 10:46:25] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 10:46:25] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 10:46:25] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 10:46:25] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 10:46:25] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 10:46:25] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 10:46:25] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 10:46:25] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 10:46:25] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 10:46:25] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 10:46:25] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 10:46:25] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 10:57:13] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 10:57:13] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 10:57:13] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 10:57:13] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 10:57:13] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 10:57:13] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 10:57:13] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 10:57:13] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 10:57:13] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 10:57:13] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 10:57:13] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 10:57:13] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 10:57:13] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 11:1:3] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 11:1:3] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 11:1:3] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 11:1:3] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 11:1:3] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 11:1:3] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 11:1:3] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 11:1:3] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 11:1:3] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 11:1:3] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 11:1:3] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 11:1:3] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 11:1:3] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:15:3] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:15:3] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:15:3] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:15:3] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:15:3] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:15:3] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:15:3] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:15:3] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:15:3] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:15:3] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:15:3] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:15:3] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:15:3] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:17:28] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:17:28] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:17:28] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:17:28] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:17:28] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:17:28] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:17:28] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:17:28] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:17:28] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:17:28] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:17:28] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:17:28] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:17:28] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:18:10] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:18:10] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:18:10] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:18:10] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:18:10] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:18:10] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:18:10] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:18:10] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:18:10] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:18:10] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:18:10] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:18:10] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:18:10] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:19:7] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:19:7] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:19:7] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:19:7] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:19:7] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:19:7] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:19:7] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:19:7] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:19:7] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:19:7] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:19:7] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:19:7] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:19:7] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:19:51] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:19:51] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:19:51] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:19:51] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:19:51] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:19:51] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:19:51] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:19:51] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:19:51] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:19:51] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:19:51] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:19:51] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:19:51] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:20:22] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:20:22] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:20:22] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:20:22] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:20:22] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:20:22] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:20:22] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:20:22] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:20:22] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:20:22] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:20:22] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:20:22] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:20:22] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:21:40] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:21:40] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:21:40] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:21:40] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:21:40] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:21:40] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:21:40] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:21:40] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:21:40] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:21:40] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:21:40] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:21:40] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:21:40] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:22:46] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:22:46] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:22:46] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:22:46] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:22:46] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:22:46] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:22:46] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:22:46] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:22:46] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:22:46] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:22:46] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:22:46] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:22:46] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:35:35] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:35:35] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:38:23] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:38:23] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:38:41] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:38:41] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:39:34] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:39:34] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:39:34] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:39:34] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:39:34] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:39:34] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:39:34] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:39:34] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:39:34] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:39:34] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:39:34] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:39:34] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:39:34] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:40:21] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:40:21] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:40:21] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:40:21] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:40:21] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:40:21] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:40:21] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:40:21] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:40:21] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:40:21] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:40:21] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:40:21] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:40:21] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:41:22] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:41:22] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:41:22] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:41:22] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:41:22] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:41:22] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:41:22] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:41:22] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:41:22] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:41:22] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:41:22] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:41:22] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:41:22] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:43:11] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:43:11] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:43:11] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:43:11] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:43:11] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:43:11] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:43:11] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:43:11] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:43:11] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:43:11] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:43:11] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:43:11] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:43:11] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:44:55] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:44:55] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:44:55] - [log] ~ [index.js] [Build] Creating build...
+[09-06-22 ~ 12:44:55] - [info] ~ [index.js] [Build] Build is running... 0.1.1.[object Promise]
+[09-06-22 ~ 12:44:55] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:44:55] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:44:55] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:44:55] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:44:55] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:44:55] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:44:55] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:44:55] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:44:55] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:44:55] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:44:55] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:45:31] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:45:31] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:45:31] - [info] ~ [index.js] [Build] Build is running... 0.1.1.1
+[09-06-22 ~ 12:45:31] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:45:31] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:45:31] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:45:31] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:45:31] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:45:31] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:45:31] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:45:31] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:45:31] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:45:31] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:45:31] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:46:4] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:46:4] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:46:4] - [info] ~ [index.js] [Build] Build is running... 0.1.1.2
+[09-06-22 ~ 12:46:4] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:46:4] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:46:4] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:46:4] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:46:4] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:46:4] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:46:4] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:46:4] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:46:4] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:46:4] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:46:4] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:48:12] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:48:12] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:48:12] - [info] ~ [index.js] [Build] Build is running... 0.1.1.3
+[09-06-22 ~ 12:48:12] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:48:12] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:48:12] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:48:12] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:48:12] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:48:12] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:48:12] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:48:12] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:48:12] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:48:12] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:48:12] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:50:46] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 12:50:46] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 12:50:46] - [info] ~ [index.js] [Build] Build is running... 0.1.1.4
+[09-06-22 ~ 12:50:46] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 12:50:46] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 12:50:46] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 12:50:46] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 12:50:46] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 12:50:46] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 12:50:46] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 12:50:46] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 12:50:46] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 12:50:46] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 12:50:46] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 13:34:43] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 13:34:43] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 13:34:43] - [info] ~ [index.js] [Build] Build is running... 0.1.1.5
+[09-06-22 ~ 13:34:43] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 13:34:43] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 13:34:43] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 13:34:43] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 13:34:43] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 13:34:43] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 13:34:43] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 13:34:43] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 13:34:43] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 13:34:43] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 13:34:43] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 13:34:55] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 13:34:55] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 13:34:55] - [info] ~ [index.js] [Build] Build is running... 0.1.1.6
+[09-06-22 ~ 13:34:55] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 13:34:55] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 13:34:55] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 13:34:55] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 13:34:55] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 13:34:55] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 13:34:55] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 13:34:55] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 13:34:55] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 13:35:11] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 13:35:11] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 13:35:11] - [info] ~ [index.js] [Build] Build is running... 0.1.1.7
+[09-06-22 ~ 13:35:11] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 13:35:11] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 13:35:11] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 13:35:11] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 13:35:11] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 13:35:11] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 13:35:11] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 13:35:11] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 13:35:11] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 13:35:11] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 13:35:11] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 13:36:22] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 13:36:22] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 13:36:22] - [info] ~ [index.js] [Build] Build is running... 0.1.1.7
+[09-06-22 ~ 13:36:22] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 13:36:22] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 13:36:22] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 13:36:22] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 13:36:22] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 13:36:22] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 13:36:22] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 13:36:22] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 13:36:22] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 13:36:22] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 13:36:22] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 13:43:2] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 13:43:2] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 13:43:2] - [info] ~ [index.js] [Build] Build is running... 0.1.1.8
+[09-06-22 ~ 13:43:2] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 13:43:2] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 13:43:2] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 13:43:2] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 13:43:2] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 13:43:2] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 13:43:2] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 13:43:2] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 13:43:2] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 13:43:2] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 13:43:2] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 13:43:58] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 13:43:58] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 13:43:58] - [info] ~ [index.js] [Build] Build is running... 0.1.1.8
+[09-06-22 ~ 13:43:58] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 13:43:58] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 13:43:58] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 13:43:58] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 13:43:58] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 13:43:58] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 13:43:58] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 13:43:58] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 13:43:58] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 13:43:58] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 13:43:58] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:50:46] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 13:43:58] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 13:43:58] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 12:50:46] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:26:28] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:26:28] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:26:28] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:26:28] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:26:28] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:26:28] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:26:28] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:26:28] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| help.js           |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:26:28] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:26:28] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:26:28] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:26:28] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:26:28] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:28:24] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:28:24] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:28:24] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:28:24] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:28:24] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:28:24] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:28:24] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:28:24] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | info | pass   |
+| createData.js     | cd      | info | pass   |
+| daily.js          |         | info | pass   |
+| help.js           |         | info | pass   |
+| hunt.js           |         | info | pass   |
+| inventory.js      | inv     | info | pass   |
+| leaderboard.js    | lb, top | info | pass   |
+| level.js          |         | info | pass   |
+| ping.js           |         | info | pass   |
+| prefix.js         |         | info | pass   |
+| premium.js        | pre     | fun  | pass   |
+| profile.js        |         | info | pass   |
+| shop.js           |         | info | pass   |
+| useItem.js        |         | info | pass   |
+| vongquaymayman.js | vqmm    | info | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:28:24] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:28:24] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:28:24] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:28:24] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:28:24] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:34:39] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:34:39] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:34:39] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:34:39] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:34:39] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:34:39] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:34:39] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:34:39] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:34:39] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:34:39] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:34:39] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:34:39] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:34:39] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:43:31] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:43:31] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:43:31] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:43:31] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:43:31] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:43:31] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:43:31] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:44:2] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:44:2] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:44:2] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:44:2] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:44:2] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:44:2] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:44:2] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:44:2] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:44:2] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:44:2] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:44:2] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:44:2] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:44:2] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:50:32] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:50:32] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:50:32] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:50:32] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:50:32] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:50:32] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:50:32] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:50:32] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:50:32] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:50:32] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:50:32] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:50:32] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:50:32] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:51:25] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:51:25] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:51:25] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:51:25] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:51:25] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:51:25] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:51:25] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:51:25] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:51:25] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:51:25] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:51:25] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:51:25] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:51:25] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:52:14] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:52:14] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:52:14] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:52:14] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:52:14] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:52:14] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:52:14] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:52:14] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:52:14] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:52:14] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:52:14] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:52:14] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:52:14] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:52:55] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:52:55] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:52:55] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:52:55] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:52:55] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:52:55] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:52:55] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:52:55] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:52:55] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:52:55] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:52:55] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:52:55] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:52:55] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:57:41] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:57:41] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:57:41] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:57:41] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:57:41] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:57:41] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:57:41] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:57:41] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:57:41] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:57:41] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:57:41] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:57:41] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:57:41] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:59:24] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 19:59:24] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 19:59:24] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 19:59:24] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 19:59:24] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 19:59:24] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 19:59:24] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 19:59:24] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 19:59:24] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 19:59:24] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 19:59:24] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 19:59:24] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:59:24] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 19:59:24] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 19:59:24] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:18:50] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:18:50] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:18:50] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 20:18:50] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:18:50] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:18:50] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:18:50] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:18:50] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:18:50] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:18:50] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:18:50] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:18:50] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:18:50] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:19:35] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:19:35] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:19:35] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 20:19:35] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:19:35] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:19:35] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:19:35] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:19:35] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:19:35] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:19:35] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:19:35] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:19:35] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:19:35] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:21:8] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:21:8] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:21:8] - [info] ~ [Client.js] 3 event đã tìm thấy.
+[09-06-22 ~ 20:21:8] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:21:8] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:21:8] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:21:8] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:21:8] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:21:8] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:21:8] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:21:8] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:21:8] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:21:8] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:22:54] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:22:54] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:22:54] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:22:54] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:22:54] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:22:54] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:22:54] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:22:54] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:22:54] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:22:54] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:22:54] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:22:54] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:22:54] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:22:54] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:25:57] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:25:57] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:25:57] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:25:57] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:25:57] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:25:57] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:25:57] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:25:57] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:25:57] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:25:57] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:25:57] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:25:57] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:25:57] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:25:57] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:26:27] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:26:27] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:26:27] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:26:27] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:26:27] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:26:27] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:26:27] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:26:27] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:26:27] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:26:27] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:26:27] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:26:27] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:26:27] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:26:27] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:28:58] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:28:58] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:28:58] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:28:58] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:28:58] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:28:58] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:28:58] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:28:58] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:28:58] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:28:58] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:28:58] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:28:58] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:28:58] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:28:58] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:29:25] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:29:25] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:29:25] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:29:25] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:29:25] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:29:25] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:29:25] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:29:25] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:29:25] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:29:25] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:29:25] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:29:25] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:29:25] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:29:25] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:30:45] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:30:45] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:30:45] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:30:45] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:30:45] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:30:45] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:30:45] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:30:45] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:30:45] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:30:45] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:30:45] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:30:45] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:30:45] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:30:45] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:36:22] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:36:22] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:36:22] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:36:22] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:36:22] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:36:22] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:36:22] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:36:22] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:36:22] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:36:22] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:36:22] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:36:22] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:36:22] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:36:22] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:38:34] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:38:34] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:38:34] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:38:34] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:38:34] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:38:34] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:38:34] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:38:34] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:38:34] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:38:34] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:38:34] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:38:34] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:38:34] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:38:34] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:39:15] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:39:15] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:39:15] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:39:15] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:39:15] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:39:15] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:39:15] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:39:15] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:39:15] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:39:15] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:39:15] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:39:15] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:39:15] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:39:15] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:43:4] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:43:4] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:43:4] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:43:4] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:43:39] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:43:39] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:43:39] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:43:39] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:43:39] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:43:39] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:43:39] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:43:39] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:43:39] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:43:39] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:43:39] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:43:39] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:43:39] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:43:39] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:44:19] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:44:19] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:44:19] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:44:19] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:44:19] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:44:19] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:44:19] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:44:19] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:44:19] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:44:19] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:44:19] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:44:19] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:44:19] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:44:19] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:44:47] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:44:47] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:44:47] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:44:47] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:44:47] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:44:47] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:44:47] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:44:47] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:44:47] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:44:47] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:44:47] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:44:47] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:44:47] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:44:47] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:48:19] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:48:19] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:48:19] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:48:19] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:48:19] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:48:19] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:48:19] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:48:19] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:48:19] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:48:19] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:48:19] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:48:19] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:48:19] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:48:19] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:49:7] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:49:7] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:49:7] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:49:7] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:49:7] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:49:7] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:49:7] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:49:7] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:49:7] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:49:7] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:49:7] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:49:7] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:49:7] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:49:7] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:49:58] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:49:58] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:49:58] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:49:58] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:49:58] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:49:58] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:49:58] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:49:58] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:49:58] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:49:58] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:49:58] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:49:58] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:49:58] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:49:58] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:50:49] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:50:49] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:50:49] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:50:49] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:50:49] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:50:49] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:50:49] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:50:49] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:50:49] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:50:49] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:50:49] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:50:49] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:50:49] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:50:49] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:53:41] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:53:41] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:53:41] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:53:41] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:53:41] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:53:41] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:53:41] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:53:41] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:53:41] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:53:41] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:53:41] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:53:41] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:53:41] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:53:41] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:54:42] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:54:42] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:54:42] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:54:42] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:54:42] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:54:42] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:54:42] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:54:42] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:54:42] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:54:42] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:54:42] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:54:42] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:54:42] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:54:42] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:57:18] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:57:18] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:57:18] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:57:18] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:57:18] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:57:18] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:57:18] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:57:18] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:57:18] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:57:18] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:57:18] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:57:18] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:57:18] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:57:18] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:58:47] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 20:58:47] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 20:58:47] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 20:58:47] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 20:58:47] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 20:58:47] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 20:58:47] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 20:58:47] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 20:58:47] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 20:58:47] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 20:58:47] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 20:58:47] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 20:58:47] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:58:47] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 20:58:47] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 20:58:47] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:3:11] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:3:11] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:3:11] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:3:11] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:3:11] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:3:11] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:3:11] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:3:11] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:3:11] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:3:11] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:3:11] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:3:11] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:3:11] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:3:11] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:32:42] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:32:42] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:32:42] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:32:42] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:32:42] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:32:42] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:32:42] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:32:42] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:32:42] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:32:42] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:32:42] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:32:42] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:32:42] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:32:42] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:33:35] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:33:35] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:33:35] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:33:35] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:33:35] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:33:35] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:33:35] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:33:35] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:33:35] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:33:35] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:33:35] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:33:35] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:33:35] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:33:35] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:37:23] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:37:23] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:37:23] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:37:23] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:37:23] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:37:23] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:37:23] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:37:23] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:37:23] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:37:23] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:37:23] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:37:23] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:37:23] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:37:23] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:38:15] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:38:15] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:38:15] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:38:15] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:38:15] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:38:15] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:38:15] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:38:15] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:38:15] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:38:15] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:38:15] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:38:15] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:38:15] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:38:15] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:39:24] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:39:24] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:39:24] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:39:24] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:39:24] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:39:24] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:39:24] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:39:24] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:39:24] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:39:24] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:39:24] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:39:24] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:39:24] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:39:24] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:52:19] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:52:19] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:52:19] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:52:19] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:52:19] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:52:19] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:52:19] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:52:19] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:52:19] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:52:19] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:52:19] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:52:19] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:52:19] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:52:19] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:53:17] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:53:17] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:53:17] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:53:17] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:53:17] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:53:17] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:53:17] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:53:17] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:53:17] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:53:17] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:53:17] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:53:17] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:53:17] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:53:17] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:54:6] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:54:6] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:54:6] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:54:6] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:54:6] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:54:6] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:54:6] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:54:6] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:54:6] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:54:6] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:54:6] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:54:6] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:54:6] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:54:6] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:55:0] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:55:0] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:55:0] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:55:0] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:55:0] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:55:0] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:55:0] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:55:0] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:55:0] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:55:0] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:55:0] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:55:0] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:55:0] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:55:0] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:56:17] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:56:17] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:56:17] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:56:17] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:56:17] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:56:17] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:56:17] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:56:17] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:56:17] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:56:17] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:56:17] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:56:17] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:56:17] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:56:17] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:59:42] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 21:59:42] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 21:59:42] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 21:59:42] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 21:59:42] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 21:59:42] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 21:59:42] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 21:59:42] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 21:59:42] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 21:59:42] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 21:59:42] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 21:59:42] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 21:59:42] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:59:42] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 21:59:42] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 21:59:42] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 22:10:46] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 22:10:46] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 22:10:46] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 22:10:46] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 22:10:46] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 22:10:46] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 22:10:46] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 22:10:46] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 22:10:46] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 22:10:46] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 22:10:46] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 22:10:46] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 22:10:46] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 22:10:46] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 22:12:11] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 22:12:11] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 22:12:11] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 22:12:11] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 22:12:11] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 22:12:11] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 22:12:11] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 22:12:11] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 22:12:11] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 22:12:11] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 22:12:11] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 22:12:11] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 22:12:11] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 22:12:11] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 22:14:37] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 22:14:37] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 22:14:37] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 22:14:37] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 22:14:37] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 22:14:37] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 22:14:37] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 22:14:37] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 22:14:37] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 22:14:37] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 22:14:37] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 22:14:37] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 22:14:37] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 22:14:37] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 22:17:51] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 22:17:51] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 22:17:51] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 22:17:51] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 22:17:51] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 22:17:51] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 22:17:51] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 22:17:51] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 22:17:51] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 22:17:51] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 22:17:51] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 22:17:51] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 22:17:51] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 22:17:51] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 22:18:53] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 22:18:53] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 22:18:53] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 22:18:53] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 22:18:53] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 22:18:53] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 22:18:53] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 22:18:53] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 22:18:53] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 22:18:53] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 22:18:53] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 22:18:53] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 22:18:53] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 22:18:53] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.
+[09-06-22 ~ 22:19:46] - [info] ~ [Client.js] Bắt đầu khởi tạo.
+[09-06-22 ~ 22:19:46] - [info] ~ [index.js] Đang khởi động
+[09-06-22 ~ 22:19:46] - [info] ~ [Client.js] 4 event đã tìm thấy.
+[09-06-22 ~ 22:19:46] - [info] ~ [Client.js] Đang tải: guildCreate
+[09-06-22 ~ 22:19:46] - [info] ~ [Client.js] Đang tải: interactionCreate
+[09-06-22 ~ 22:19:46] - [info] ~ [Client.js] Đang tải: messageCreate
+[09-06-22 ~ 22:19:46] - [info] ~ [Client.js] Đang tải: ready
+[09-06-22 ~ 22:19:46] - [info] ~ [Client.js] Loading commands...
+[09-06-22 ~ 22:19:46] - [info] ~ [Client.js] 
+.---------------------------------------------.
+|                  Commands                   |
+|---------------------------------------------|
+|       File        | Aliases | Type | Status |
+|-------------------|---------|------|--------|
+| codemanager.js    |         | Misc | pass   |
+| createData.js     | cd      | Game | pass   |
+| daily.js          |         | Game | pass   |
+| help.js           |         | Info | pass   |
+| hunt.js           |         | Game | pass   |
+| inventory.js      | inv     | Game | pass   |
+| leaderboard.js    | lb, top | Game | pass   |
+| level.js          |         | Game | pass   |
+| ping.js           |         | Misc | pass   |
+| prefix.js         |         | Misc | pass   |
+| premium.js        | pre     | Misc | pass   |
+| profile.js        |         | Game | pass   |
+| shop.js           |         | Game | pass   |
+| useItem.js        |         | Game | pass   |
+| vongquaymayman.js | vqmm    | Game | pass   |
+'---------------------------------------------'
+[09-06-22 ~ 22:19:46] - [info] ~ [index.js] Đã đăng nhập thành công.
+[09-06-22 ~ 22:19:46] - [info] ~ [ready.js] [READY] Ready to work!
+[09-06-22 ~ 22:19:46] - [info] ~ [Client.js] Đã kết nối đến MongoDB
+[09-06-22 ~ 22:19:46] - [info] ~ [ready.js] [PREMIUM] Check trạng thái premium của user...
+[09-06-22 ~ 22:19:46] - [info] ~ [ready.js] [PREMIUM] Đã hoàn tất check.

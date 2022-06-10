@@ -7,7 +7,7 @@ module.exports = class LevelCommand extends Command {
             name: 'level',
             usage: 'lv',
             description: `Xem level của bạn`,
-            type: client.types.INFO,
+            type: client.types.GAME,
         });
     }
 

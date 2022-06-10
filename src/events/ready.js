@@ -3,10 +3,11 @@ const Player = file('./src/Game/Player.js');
 const { MessageEmbed } = require('discord.js');
 const Code = file('./src/mongoose/Schema/Code.js');
 const t = require('../mongoose/Schema/PlayerSchema.js');
+
 module.exports = async (client) => {
     client.logger.info('[READY] Ready to work!');
     client.user.setActivity(
-        `${client.guilds.size} servers | ${client.users.size} user`,
+        `Running: ${client.config.version}`,
         { type: 'WATCHING' }
     );
 
@@ -97,5 +98,9 @@ module.exports = async (client) => {
             }
         }
         client.logger.info('[PREMIUM] Đã hoàn tất check.');
+        client.user.setActivity(
+            `Đang ver ${client.config.version} `,
+            { type: 'WATCHING' }
+        );
     }
 };

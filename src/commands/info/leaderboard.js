@@ -9,7 +9,7 @@ module.exports = class LeaderBroadCommand extends Command {
             usage: 'ping',
             aliases: ['lb', 'top'],
             description: `Xem top người chơi.`,
-            type: client.types.INFO,
+            type: client.types.GAME,
         });
     }
 

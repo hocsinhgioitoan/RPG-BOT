@@ -1,6 +1,8 @@
 const { MessageEmbed } = require('discord.js');
 const { MessageActionRow, MessageButton } = require('discord.js');
 const { plugin } = require('mongoose');
+const config = require('../../config');
+const Guild = file('./src/mongoose/Schema/Guild.js');
 
 module.exports = async (client, message) => {
     if (
@@ -9,7 +11,10 @@ module.exports = async (client, message) => {
         message.author.bot
     )
         return;
-    const prefix = client.config.host ?client.config.defaultPrefix : client.config.devPrefix;
+    let prefix;
+    let g;
+    const da = await Guild.findOne({ id: message.guild.id });
+    prefix = da.info.prefix;
     const prefixRegex = new RegExp(
         `^(<@!?${client.user.id}>|${prefix.replace(
             /[.*+?^${}()|[\]\\]/g,
@@ -54,9 +59,13 @@ module.exports = async (client, message) => {
         }
         await player.setDataPlayer(data);
     }
-    if (prefixRegex.test(message.content)) {
-        const [, match] = message.content.match(prefixRegex);
-        const args = message.content.slice(match.length).trim().split(/ +/g);
+    if (prefixRegex.test(message.content.toLowerCase())) {
+        const [, match] = message.content.toLowerCase().match(prefixRegex);
+        const args = message.content
+            .toLowerCase()
+            .slice(match.length)
+            .trim()
+            .split(/ +/g);
         const cmd = args.shift().toLowerCase();
         let command = client.commands.get(cmd) || client.aliases.get(cmd); // If command not found, check aliases
         if (command) {
@@ -68,6 +77,53 @@ module.exports = async (client, message) => {
 Hãy liên hệ với admin để biết thêm chi tiết.
 `
                     );
+                }
+            }
+            if (dataPlayer) {
+                if (!data.captcha) {
+                    data.captcha.active = false;
+                    data.captcha.count = 0;
+                    await player.setDataPlayer(data);
+                    return message.channel.send(`Setup data! Thử lại lệnh`);
+                }
+                if (data.captcha.active === true) {
+                    const count = data.captcha.count;
+                    console.log(count > 5);
+                    if (count > 5) {
+                        data.banned = true;
+                        await player.setDataPlayer(data);
+                        return message.channel.send(
+                            `<@${message.author.id}> Bạn đã bị chặn khỏi sử dụng các lệnh của bot :((.
+                            `
+                        );
+                    }
+                    data.captcha.count = count + 1;
+                    await player.setDataPlayer(data);
+                    return message.channel.send(
+                        `<@${
+                            message.author.id
+                        }> Vui lòng verify captcha, quá 5 lần sẽ bị ban | Count: ${
+                            count + 1
+                        } / 5.`
+                    );
+                }
+                const rdf = client.utils.getRandomInt(1, 100);
+                const rdf2 = client.utils.getRandomInt(1, 100);
+                const sum = rdf + rdf2;
+
+                if (sum < 50) {
+                    const button = new MessageButton()
+                        .setLabel('Verify')
+                        .setStyle('SUCCESS')
+                        .setCustomId('captcha');
+                    const row = new MessageActionRow().addComponents([button]);
+                    data.captcha.active = true;
+                    await player.setDataPlayer(data);
+                    return message.reply({
+                        content: `${client.emoji.captcha} | Bạn đã dính captcha!, vui lòng ấn nút bên dưới để verify`,
+                        components: [row],
+                        ephemeral: true,
+                    });
                 }
             }
             if ((command.name !== 'createdata') === true) {
@@ -137,7 +193,7 @@ Hãy liên hệ với admin để biết thêm chi tiết.
                 });
             message.command = true; // Add flag for messageUpdate event
             message.channel.sendTyping();
-            command.run(client, message, args); // Run command
+            command.run(client, message, args, false); // Run command
         } // -44 + (-44 * -2 ) =
     }
 };

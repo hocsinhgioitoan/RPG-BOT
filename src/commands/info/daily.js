@@ -7,7 +7,7 @@ module.exports = class DailyCommand extends Command {
             name: 'daily',
             usage: 'daily',
             description: `Nhận daily hằng ngày`,
-            type: client.types.INFO,
+            type: client.types.GAME,
         });
     }
 
@@ -86,7 +86,7 @@ module.exports = class DailyCommand extends Command {
                     .setFooter({
                         text: `Daily càng nhiều thì nhận được số tiền tương ứng với streak!`,
                     });
-                if (premium === true) message.channel.send({ embeds: [embed] });
+                message.channel.send({ embeds: [embed] });
                 data.daily.time = Date.now() + client.config.daily.time;
                 data.daily.count++;
                 data.inventory.money += random;

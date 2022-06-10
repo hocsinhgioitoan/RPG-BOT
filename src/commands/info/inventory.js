@@ -9,7 +9,7 @@ module.exports = class InventoryCommand extends Command {
             aliases:["inv"],
 
             description: `Xem inventory của bạn.`,
-            type: client.types.INFO,
+            type: client.types.GAME,
         });
     }
 

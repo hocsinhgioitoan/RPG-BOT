@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+const c = file("./config.js");
 module.exports = mongoose.model(
     'Guild',
     new mongoose.Schema({
@@ -7,7 +7,7 @@ module.exports = mongoose.model(
         info: {
             type: Object,
             default: {
-                prefix: { type: String, default: null },
+                prefix: { type: String, default: `${c.defaultPrefix}` },
             },
         },
     })

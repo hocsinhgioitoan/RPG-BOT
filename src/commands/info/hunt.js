@@ -8,7 +8,7 @@ module.exports = class HuntCommand extends Command {
             name: 'hunt',
             usage: 'hunt',
             description: `Săn bắt thú`,
-            type: client.types.INFO,
+            type: client.types.GAME,
         });
     }
 

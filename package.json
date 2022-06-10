@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start:start": "node index.js --start"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,8 @@
   "dependencies": {
     "@discordjs/rest": "^0.5.0",
     "ascii-table": "^0.0.9",
+    "better-sqlite3": "^7.5.3",
+    "canvas": "^2.9.1",
     "discord-api-types": "^0.33.3",
     "discord.js": "^13.8.0",
     "fs": "^0.0.1-security",
@@ -20,7 +22,9 @@
     "mongodb": "^4.6.0",
     "mongoose": "^6.3.5",
     "node-cron": "^3.0.1",
+    "pagination.djs": "^3.5.3",
     "path": "^0.12.7",
+    "quick.db": "^9.0.2",
     "uuid": "^8.3.2",
     "winston": "^3.7.2"
   }

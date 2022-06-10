@@ -10,7 +10,7 @@ module.exports = class PingCommand extends Command {
             name: 'shop',
             usage: 'shop [page]',
             description: `Xem shop.`,
-            type: client.types.INFO,
+            type: client.types.GAME,
         });
     }
 
@@ -56,9 +56,9 @@ module.exports = class PingCommand extends Command {
             const embed = new MessageEmbed()
                 .setTitle('Shop')
                 .setDescription(
-                    `Dưới đây là mục lục của shop, để xem từng trang, sử dụng \`${client.prefix}shop [page]\`.
-                    - \`${client.prefix}shop show [item Id]\` để xem chi tiết item
-                    - \`${client.prefix}shop buy [item Id] [amount]\` để mua item
+                    `Dưới đây là mục lục của shop, để xem từng trang, sử dụng \`${await client.prefix(message.guild.id)}shop [page]\`.
+                    - \`${await client.prefix(message.guild.id)}shop show [item Id]\` để xem chi tiết item
+                    - \`${await client.prefix(message.guild.id)}shop buy [item Id] [amount]\` để mua item
                     `
                 )
                 .addFields([{ name: 'Mục lục', value: `${a.join(`\n`)}` }])
@@ -141,9 +141,9 @@ module.exports = class PingCommand extends Command {
                 return message.channel
                     .send(`${client.emoji.thatbai} | Sai định dạng.
                 - Bạn đã nhập sai id item, vui lòng kiểm tra lại
-                - \`Xem mục lục shop ${client.prefix}shop \`
-                - \`${client.prefix}shop show [item Id]\`
-                -  Ví dụ: \`${client.prefix}shop show 1\``);
+                - \`Xem mục lục shop ${await client.prefix(message.guild.id)}shop \`
+                - \`${await client.prefix(message.guild.id)}shop show [item Id]\`
+                -  Ví dụ: \`${await client.prefix(message.guild.id)}shop show 1\``);
             }
             Object.keys(page).forEach(async (key, index) => {
                 const c = page[key];
@@ -173,9 +173,9 @@ module.exports = class PingCommand extends Command {
             } else {
                 return message.channel.send(`
                 ${client.emoji.thatbai} | Không tìm thấy item.
-                - Xem mục lục shop \`${client.prefix}shop \`
-                - \`${client.prefix}shop show [item Id]\`
-                -  Ví dụ: \`${client.prefix}shop show 1\``);
+                - Xem mục lục shop \`${await client.prefix(message.guild.id)}shop \`
+                - \`${await client.prefix(message.guild.id)}shop show [item Id]\`
+                -  Ví dụ: \`${await client.prefix(message.guild.id)}shop show 1\``);
             }
         } else if (args[0] == 'buy') {
             const money = data.inventory.money;
@@ -188,9 +188,9 @@ module.exports = class PingCommand extends Command {
                 return message.channel
                     .send(`${client.emoji.thatbai} | Sai định dạng.
                 - Bạn đã nhập sai số lượng item, vui lòng kiểm tra lại
-                - Xem mục lục shop \`${client.prefix}shop \`
-                - \`${client.prefix}shop buy [item Id] [amount]\`
-                -  Ví dụ: \`${client.prefix}shop buy 1 1\`
+                - Xem mục lục shop \`${await client.prefix(message.guild.id)}shop \`
+                - \`${await client.prefix(message.guild.id)}shop buy [item Id] [amount]\`
+                -  Ví dụ: \`${await client.prefix(message.guild.id)}shop buy 1 1\`
                 - Lưu ý : 
                             + \`amount\` phải là số nguyên dương.
                             + \`item Id\` phải là số nguyên dương.
@@ -204,9 +204,9 @@ module.exports = class PingCommand extends Command {
                 return message.channel
                     .send(`${client.emoji.thatbai} | Sai định dạng.
                 - Bạn đã nhập sai id item, vui lòng kiểm tra lại
-                - Xem mục lục shop \`${client.prefix}shop \`
-                - \`${client.prefix}shop buy [item Id] [amount]\`
-                -  Ví dụ: \`${client.prefix}shop buy 1 1\`
+                - Xem mục lục shop \`${await client.prefix(message.guild.id)}shop \`
+                - \`${await client.prefix(message.guild.id)}shop buy [item Id] [amount]\`
+                -  Ví dụ: \`${await client.prefix(message.guild.id)}shop buy 1 1\`
                 - Lưu ý : 
                             + \`amount\` phải là số nguyên dương.
                             + \`item Id\` phải là số nguyên dương.
@@ -278,7 +278,7 @@ module.exports = class PingCommand extends Command {
                             quantity: quantity,
                         };
                     }
-                    player.setDataPlayer(data);
+                    await player.setDataPlayer(data);
                     client.logger.info(
                         `${message.author.tag} đã mua ${d.name} | ${d.id} | ${quantity}`
                     );
@@ -301,9 +301,9 @@ module.exports = class PingCommand extends Command {
             } else {
                 message.channel
                     .send(`${client.emoji.thatbai} | Không tìm thấy item.
-                - \`Xem mục lục shop ${client.prefix}shop \`
-                - \`${client.prefix}shop buy [item Id] [amount]\`
-                -  Ví dụ: \`${client.prefix}shop buy 1 1\`
+                - \`Xem mục lục shop ${await client.prefix(message.guild.id)}shop \`
+                - \`${await client.prefix(message.guild.id)}shop buy [item Id] [amount]\`
+                -  Ví dụ: \`${await client.prefix(message.guild.id)}shop buy 1 1\`
                 - Lưu ý : + \`amount\` phải là số nguyên dương.
                             + \`item Id\` phải là số nguyên dương.
                             + amount nếu không đề cập thì mặc định là 1
@@ -346,9 +346,9 @@ module.exports = class PingCommand extends Command {
         } else if (args[0] > Object.keys(page).length ) {
             message.channel.send(`${client.emoji.thatbai} | Sai định dạng.
             - Bạn đã ghi trang không tồn tại
-            - Xem mục lục shop \`${client.prefix}shop \`
-            - \`${client.prefix}shop buy [item Id] [amount]\`
-            -  Ví dụ: \`${client.prefix}shop buy 1 1\`
+            - Xem mục lục shop \`${await client.prefix(message.guild.id)}shop \`
+            - \`${await client.prefix(message.guild.id)}shop buy [item Id] [amount]\`
+            -  Ví dụ: \`${await client.prefix(message.guild.id)}shop buy 1 1\`
             - Lưu ý : 
                         + \`amount\` phải là số nguyên dương.
                         + \`item Id\` phải là số nguyên dương.

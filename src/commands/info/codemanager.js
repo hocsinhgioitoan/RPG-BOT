@@ -10,7 +10,7 @@ module.exports = class CodeCommand extends Command {
             name: 'code',
             usage: 'code + <codenam>',
             description: `Nhập code.`,
-            type: client.types.INFO,
+            type: client.types.MISC,
         });
     }
 

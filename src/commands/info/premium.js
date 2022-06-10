@@ -10,7 +10,7 @@ module.exports = class LeaderBroadCommand extends Command {
             name: 'premium',
             usage: 'ping',
             aliases: ['pre'],
-            description: `Xem top người chơi.`,
+            description: `Xem quyền lợi premium.`,
             type: client.types.FUN,
         });
     }
@@ -45,7 +45,7 @@ ${client.emoji.premium} Khi bạn sở hữu premium, bạn sẽ có quyền l�
                     },
                 ]);
             message.channel.send({ embeds: [embed] });
-        }
+        } 
         if (client.config.owners.includes(message.author.id)) {
             const type = args[0];
             if (type === 'add') {

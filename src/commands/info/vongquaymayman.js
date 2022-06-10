@@ -9,7 +9,7 @@ module.exports = class GhachaCommand extends Command {
             aliases:["vqmm"],
 
             description: `Mini game`,
-            type: client.types.INFO,
+            type: client.types.GAME,
         });
     }
 
@@ -23,7 +23,7 @@ module.exports = class GhachaCommand extends Command {
                     `
 Luật chơi: 
 - Sẽ có 1 vùng với 9 ô vuông, trong đó sẽ có 1 ô là ô mũi tên xoay, và sẽ có mặc định có 2 ô là ô đặt hình hình lucky block .
-- Nhiệm vụ của bạn là dùng lệnh \` ${client.prefix}vongquaymayman play \` để chơi
+- Nhiệm vụ của bạn là dùng lệnh \` ${await client.prefix(message.guild.id)}vongquaymayman play \` để chơi
 - Phần thưởng sẽ là 1 Hộp random tiền (100 -> 200)
 - Chúc may mắn heh
                 `

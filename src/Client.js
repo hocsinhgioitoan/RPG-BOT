@@ -15,17 +15,10 @@ class Client extends Discord.Client {
         this.enabledIntents = enabledIntents;
         this.config = config;
         this.types = {
-            INFO: 'info',
-            FUN: 'fun',
-            POINTS: 'points',
-            SMASHORPASS: 'Smash or Pass',
-            NSFW: 'NSFW 18+',
-            MISC: 'misc',
-            MOD: 'mod',
-            MUSIC: 'music',
-            ADMIN: 'admin',
-            MANAGER: 'manager',
-            OWNER: 'owner',
+            INFO: "Info",
+            GAME: "Game",
+            MISC: "Misc",
+            OWNER: "Owner",
         };
         this.logger = require("./Utils/LoggerWebhook.js");
         this.whLogger = require("./Utils/LoggerWebhook.js");
@@ -35,7 +28,9 @@ class Client extends Discord.Client {
         this.aliases = new Discord.Collection();
         this.slashCommands = new Discord.Collection();
         this.db = require("./mongoose/mongoose.js");
-        this.prefix = config.defaultPrefix;
+        this.prefix = async function (guild) {
+            return await this.db.getPrefixGuild(guild);
+        }.bind(this);
         this.emoji = require('./Utils/emojis.json');
     }
     loadEvents(path) {
@@ -244,7 +239,8 @@ class Client extends Discord.Client {
     }
     connectMongo(link, mongoose) {
         return new Promise((resolve, reject) => {
-            mongoose.connect(link, {
+            mongoose.connect(this.config.host ? this.config.connect.mongo.main : this.config.connect.mongo.url, {
+
                 useNewUrlParser: true,
                 useUnifiedTopology: true
             }).then(() => {
