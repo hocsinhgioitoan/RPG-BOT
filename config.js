@@ -2,7 +2,7 @@ module.exports = {
     nameBot: 'RPG beta',
     defaultPrefix: 'r',
     devPrefix: 'd',
-    version: '0.1.1',
+    version: '0.2.0',
     token: 'OTgwNjY2NTM5Mzc4MzY4NTcy.GFfcO-.OnwO0tCACkDa3iewiqVpQkCu9U17rxmFtBHtEo',
     maintoken:
         'OTgzNzU3MDEwMDc4MTUwNjg2.GRMGJm.WGuahLwyxw879y0MXShGTP-hIo5gQVweMohplQ',
